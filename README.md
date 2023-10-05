@@ -4,9 +4,10 @@ The project started as a learning exrecice to make a tiny some what low power es
 ## Goal
 - max size 1" x 0.5"
 - < 500 mA peak
+- < 5 mA deep sleep
 - External antenna (U.Fl connector)
 - USB-C
-- 1s liion or lipo powered
+- 1s li-ion or lipo powered
 - GPIO
   - min 6 Digital
     - SPI

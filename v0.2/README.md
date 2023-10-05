@@ -1,12 +1,10 @@
 # Atom v0.2
 ## Specs
 ### Size:
-PCB Size: <br>
+Unit Size: <br>
 | length | width | height | unit |
 |--------|-------|--------|------|
 | 850    | 500   | 230    | mil  |
-| 21.6   | 12.7  | 5.9    | mm   |
-
 <br>
 
 #### CPU: <br>
@@ -15,24 +13,21 @@ ESP32-C3FH4
 - 32­bit RISC-­V
 - 160 MHz
 - 4 MB flash
-
 <br>
 
 #### RF:
 - Bluetooth 5
 - Wi-Fi IEEE 802.11b/g/n
-
 <br>
 
 #### GPIO:
 - Digital
-  - 14x
+  - 14x GPIO
   - SPI
   - I2C (IIC)
   - UART
 - Analog
-  - 5x
-  
+  - 5x GPIO
 <br>
 
 ## BOM
