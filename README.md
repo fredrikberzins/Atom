@@ -24,5 +24,5 @@ Some later goals are:
 images: <br>
 | v0.1                         | v0.2                         | v0.3                         |
 |------------------------------|------------------------------|------------------------------|
-| ![plot](./v0.1/atom_v01.png) | ![plot](./v0.2/atom_v02.png) | ![plot](./v0.3/atom_v03.png) |
+| ![plot](./v0.1/atom_v01.jpg) | ![plot](./v0.2/atom_v02.jpg) | ![plot](./v0.3/atom_v03.jpg) |
 <br>
