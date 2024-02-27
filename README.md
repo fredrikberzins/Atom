@@ -20,3 +20,9 @@ Some later goals are:
 - max size 0.9" x 0.5" x 0.5"
 - power LED (3.3v)
 - lipo charging (Via USB-C.)
+
+images: <br>
+| v0.1                         | v0.2                         | v0.3                         |
+|------------------------------|------------------------------|------------------------------|
+| ![plot](./v0.1/atom_v01.png) | ![plot](./v0.2/atom_v02.png) | ![plot](./v0.3/atom_v03.png) |
+<br>
