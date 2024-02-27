@@ -22,5 +22,7 @@ Some later goals are:
 - lipo charging (Via USB-C.)
 
 images: <br>
+| 900x500 mil                  | 850x500 mil                  | 850x680 mil                  |
+|------------------------------|------------------------------|------------------------------|
 | ![plot](./v0.1/atom_v01.jpg) | ![plot](./v0.2/atom_v02.jpg) | ![plot](./v0.3/atom_v03.jpg) |
 <br>
